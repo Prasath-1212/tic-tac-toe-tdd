@@ -1,0 +1,9 @@
+.tic-tac-toe {
+    margin-top: 250px;
+    margin-left: 650px;
+}
+  
+.board-row {
+    display: flex;
+    flex-direction: row;
+}
